@@ -96,7 +96,14 @@
 
 ---
 
-## 👤 Автор / Разработчик
+## 👤 Автор / Разработчики
 
-Frontend Developer Pirmatov Rahmatjon
-Beckend Developer Ehsoni Jamshed
+**Frontend Developer**
+**Pirmatov Rahmatjon**
+📬 Telegram: [https://t.me/rahmatjon24](https://t.me/rahmatjon24)
+
+**Backend Developer**
+**Ehsoni Jamshed**
+📬 Telegram: [https://t.me/waytosuccess2006](https://t.me/waytosuccess2006)
+
+
